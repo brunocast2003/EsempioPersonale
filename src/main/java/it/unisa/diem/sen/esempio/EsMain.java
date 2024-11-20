@@ -17,7 +17,7 @@ public class EsMain {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        System.out.println("Nell'istruzione add $t0, $t1, $t2...");
+        System.out.println("prova");
     }
     
 }
