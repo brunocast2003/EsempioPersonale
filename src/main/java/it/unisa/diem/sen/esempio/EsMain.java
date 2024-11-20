@@ -16,7 +16,7 @@ public class EsMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("BC is the King");
+        System.out.println("suca");
     }
     
 }
